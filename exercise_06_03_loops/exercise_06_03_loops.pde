@@ -14,6 +14,8 @@ background(255); // White background
 stroke(0); // Shapes have black lines
 noFill(); // Shapes are not filled in
 
+//  Shapes C, little square boxes across the middle of the page
+//
 for (int i = 0; i < 10; i++) {
   rect(i*20,height/2, 5, 5);
 }
