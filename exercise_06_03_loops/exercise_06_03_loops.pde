@@ -1,7 +1,9 @@
 // Learning Processing
 // Daniel Shiffman
 // http://www.learningprocessing.com
-
+//
+// This is a git managed version containing Mike's exercise response.
+//
 // Exercise 6-3: Following are some additional examples 
 // of loops. Match the appropriate screenshot with the 
 // loop structure. Each example assumes the same four 
